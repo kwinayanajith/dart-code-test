@@ -1,21 +1,20 @@
 // void main() {
-//   print('Hello, World!');
+//    print('Hello, World!');
 // }
-
+//
 // void main() {
 //   // Variables for an integer, a double, and a string
 //   int myInteger = 5;
 //   double myDouble = 3.14;
 //   String myString = 'Hello';
 //
-//   // Perform arithmetic operations on numeric variables
 //   int resultSum = myInteger + 10;
 //   double resultProduct = myDouble * 2;
 //
-//   // Concatenate the string variable
+//
 //   String resultString = '$myString World!';
 //
-//   // Print the results
+//   //Print the results
 //   print('Original Integer: $myInteger');
 //   print('Original Double: $myDouble');
 //   print('Original String: $myString');
