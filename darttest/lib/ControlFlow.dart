@@ -1,7 +1,7 @@
 // import 'dart:io';
 //
 // void main() {
-//   //user to enter a number
+//   // Prompt the user to enter a number
 //   print('Enter a number:');
 //
 //   // Read the input as a string and convert it to an integer
